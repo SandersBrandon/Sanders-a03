@@ -26,7 +26,7 @@ public class Solution24 {
        boolean f1 ;
        t1 = true;
        f1 = false;
-       
+
 
     }
     /*Compare the two strings and return true or false if theyre anagrams*/
