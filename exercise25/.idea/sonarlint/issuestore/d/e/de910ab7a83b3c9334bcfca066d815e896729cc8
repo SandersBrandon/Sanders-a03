@@ -1,0 +1,9 @@
+
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Û™ÝÕúÿÿÿÿ
+W
+java:S1854G"ARemove this useless assignment to local variable "passwordArray".(È´€Š
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(à±íÝýÿÿÿÿ
+H
+java:S1481G"2Remove this unused "passwordArray" local variable.(È´€Š
+Q
+java:S1128	"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8É°¼¾Ä/

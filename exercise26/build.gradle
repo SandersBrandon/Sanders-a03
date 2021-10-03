@@ -19,5 +19,8 @@ test {
     useJUnitPlatform()
 }
 run {
+    standardInput = System.in
+}
+application{
     mainClass = "baseline.Solution26"
 }
