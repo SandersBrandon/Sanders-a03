@@ -16,7 +16,7 @@ import java.util.Arrays;
 
 public class Solution24 {
 
-    static void isInputAnagram(String firstInput, String secondInput){
+    static void isAnagram(String firstInput, String secondInput){
        boolean  status = true;
        if (firstInput.length() != secondInput.length()){
            status= false;
@@ -50,7 +50,7 @@ public class Solution24 {
         System.out.println("Enter the second string: ");
         String secondInput = in.nextLine();
 
-        isInputAnagram(firstInput, secondInput);
+        isAnagram(firstInput, secondInput);
 
 
     }
