@@ -12,8 +12,29 @@ import java.util.Scanner;
 * Output the added sum of the array
 */
 
+
 public class Solution28 {
-    public static void main(String[] args) {
+
+    static void AddingNumbers() {
+        final Scanner in = new Scanner(System.in);
+        int numArray[] = new int[5];
+        int userSum = 0;
+
+        for (int x = 0; x < 5; x++) {
+            System.out.printf("Enter a number : ");
+            numArray[x] = in.nextInt();
+            userSum = userSum + numArray[x];
+
+            }
+
+        System.out.println("The total is: " + userSum);
 
     }
+
+    public static void main(String[] args) {
+
+        AddingNumbers();
+    }
 }
+
+

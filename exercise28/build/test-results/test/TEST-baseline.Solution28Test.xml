@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution28Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-04T00:25:22" hostname="DESKTOP-6KCV8A5" time="0.012">
+  <properties/>
+  <testcase name="AddingNumbers()" classname="baseline.Solution28Test" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
